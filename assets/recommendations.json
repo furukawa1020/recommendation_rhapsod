@@ -1,0 +1,87 @@
+{
+  "Movies": [
+    {
+      "title": "Inception",
+      "description": "夢の中で夢を操るSFサスペンス。脳がバグる！",
+      "image": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg"
+    },
+    {
+      "title": "Interstellar",
+      "description": "宇宙と親子愛。泣けるSF超大作。",
+      "image": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+    },
+    {
+      "title": "The Matrix",
+      "description": "現実は仮想？哲学的アクション映画の金字塔。",
+      "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+    }
+  ],
+  "Books": [
+    {
+      "title": "1984",
+      "description": "ディストピア文学の代表作。監視社会の恐怖。",
+      "image": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+    },
+    {
+      "title": "Brave New World",
+      "description": "管理社会と自由。考えさせられる一冊。",
+      "image": "https://covers.openlibrary.org/b/id/8231856-L.jpg"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "description": "本が禁じられた世界での希望と抵抗。",
+      "image": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+    }
+  ],
+  "Music": [
+    {
+      "title": "Bohemian Rhapsody",
+      "description": "Queenの名曲。カラオケで盛り上がること間違いなし。",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png"
+    },
+    {
+      "title": "Stairway to Heaven",
+      "description": "レッド・ツェッペリンの伝説的ロックバラード。",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Led_Zeppelin_-_Led_Zeppelin_IV.jpg"
+    },
+    {
+      "title": "Hotel California",
+      "description": "イーグルスの名曲。ギターソロが最高。",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg"
+    }
+  ],
+  "Games": [
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "description": "広大な世界を自由に冒険できる神ゲー。",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+    },
+    {
+      "title": "Minecraft",
+      "description": "創造力が爆発するサンドボックスゲーム。",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
+    },
+    {
+      "title": "Among Us",
+      "description": "みんなでワイワイ人狼ゲーム。疑心暗鬼が止まらない。",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Among_Us_cover_art.jpg"
+    }
+  ],
+  "Restaurants": [
+    {
+      "title": "Sushi Zanmai",
+      "description": "新鮮なネタが自慢の寿司チェーン。",
+      "image": "https://www.sushizanmai.com/common/img/top/main.jpg"
+    },
+    {
+      "title": "Ippudo Ramen",
+      "description": "濃厚とんこつスープがクセになるラーメン店。",
+      "image": "https://www.ippudo.com/common/img/top/main.jpg"
+    },
+    {
+      "title": "Yakiniku Like",
+      "description": "一人焼肉もOK！コスパ最強の焼肉店。",
+      "image": "https://yakiniku-like.com/common/img/top/main.jpg"
+    }
+  ]
+}
